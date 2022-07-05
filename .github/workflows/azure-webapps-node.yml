@@ -8,7 +8,7 @@ env:
   # change to your application's name in Azure
   AZURE_WEBAPP_NAME: alumnosfic
   # change both instances of azure-react-apod to the name of your repo
-  AZURE_WEBAPP_PACKAGE_PATH: '/home/runner/work/alumnosfic/alumnosfic'   
+  AZURE_WEBAPP_PACKAGE_PATH: '/home/runner/work/uai_alumnosfic/uai_alumnosfic'   
   # set this to the node version to use if not 16
   NODE_VERSION: '14.x'                
 
