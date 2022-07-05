@@ -1,0 +1,58 @@
+body {
+  font-family: 'Montserrat' sans-serif;
+}
+
+body .App .bg-uai {
+  background: #469DE2;
+}
+
+body .App .p-custom {
+  height: 169px;
+  width: 1265px;
+}
+
+body .App .custom-size {
+  height: 60px;
+  width: 1200px;
+  top: 50;
+}
+
+body .App .bg-white {
+  background: white;
+}
+
+body .App .custom-size-logo {
+  height: 8%;
+  width: 8%;
+}
+
+body .App .custom-size-card {
+  height: 421px;
+  width: 265px;
+}
+
+body .App .bg-facebook {
+  background: #44549A;
+}
+
+body .App .fc-color {
+  color: #44549A;
+}
+
+body .App .bg-twitter {
+  background: #4A9CF4;
+}
+
+body .App .bg-lin {
+  background: #3474B6;
+}
+
+body .App .bg-black {
+  background-color: #00000080;
+}
+
+body .App .custom-size-small-logo {
+  height: 30%;
+  width: 30%;
+}
+/*# sourceMappingURL=App.css.map */
